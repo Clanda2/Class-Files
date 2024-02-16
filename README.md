@@ -2,7 +2,7 @@
 
 **About**
 
-This repository serves as a centralized archive of code, notes, and projects developed through Beedie coursesork, it aims to document the learning journey in BUS 464, BUS 462 convering various topics under SQL, R, and Machine Learning. This resource is intended for personal review and to assist peers or anyone interested in exploring these subjects further, 
+This repository serves as a centralized archive of code, notes, and projects developed through Beedie coursework, it aims to document lectures, assignments, and projects for the BADM program at Beedie. This resource is intended for personal review and to assist students in their studies, it is not an answer sheet or intended for commercial use. 
 
 **Courses** 
 
