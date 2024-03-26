@@ -25,7 +25,7 @@ Here are the steps to submit your contributions:
 7) Submit a pull request
 
 **Resources** 
-Insert the 464 textbook here when I find it and dropbox link 
+https://www.dropbox.com/sh/pjyvruu41h0pk1w/AADLm_nVeyl_mILYVS36WbDia?dl=0
 
 **Contact** 
 
