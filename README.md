@@ -25,7 +25,7 @@ Here are the steps to submit your contributions:
 7) Submit a pull request
 
 **Resources** 
-https://www.dropbox.com/sh/pjyvruu41h0pk1w/AADLm_nVeyl_mILYVS36WbDia?dl=0
+[https://www.dropbox.com/sh/pjyvruu41h0pk1w/AADLm_nVeyl_mILYVS36WbDia?dl=0]
 
 **Contact** 
 
