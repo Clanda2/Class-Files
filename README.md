@@ -35,5 +35,5 @@ Email: Clanda@sfu.ca
 
 GitHub: Clanda2 
 
-LinkedIN: 
+LinkedIn: https://www.linkedin.com/in/chaselanda/ 
 
