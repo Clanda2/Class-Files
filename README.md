@@ -7,7 +7,6 @@ This repository serves as a centralized archive of code, notes, and projects dev
 **Courses** 
 
 BUS464 Data Management: Covers topics in SQL 
-
 BUS462 Business Analytics: Covers topics in R and Machine Learning 
 
 **Projects**
@@ -25,15 +24,12 @@ Here are the steps to submit your contributions:
 7) Submit a pull request
 
 **Resources** 
-[https://www.dropbox.com/sh/pjyvruu41h0pk1w/AADLm_nVeyl_mILYVS36WbDia?dl=0]
+
 
 **Contact** 
 
 Name: Chase Landa 
-
 Email: Clanda@sfu.ca
-
 GitHub: Clanda2 
 
-LinkedIn: https://www.linkedin.com/in/chaselanda/ 
 
